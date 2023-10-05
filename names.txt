@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,clin395,Lin,Chuyi
 employee,swang2272,Wang,Siyan
